@@ -9,6 +9,7 @@
 ## AWS EC2
 * User Guide
   * https://docs.aws.amazon.com/zh_tw/AWSEC2/latest/UserGuide/concepts.html
+  * https://docs.aws.amazon.com/zh_tw/AWSEC2/latest/UserGuide/ec2-reserved-instances.html
 
 ## VM IMPORT/EXPORT
 * User Guide
@@ -240,6 +241,8 @@
   * https://aws.amazon.com/tw/answers/
 * AWS 知識中心
   * https://aws.amazon.com/cn/premiumsupport/knowledge-center/
+* AWS 夥伴patten(很有用)
+    * https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/deploy-an-amazon-eks-cluster-from-aws-cloud9-using-an-ec2-instance-profile.html?did=pg_card&trk=pg_card
 ### Disaster recovery
 * Using Amazon Web Services for Disaster Recovery
   * http://www.ats.com/wp-content/uploads/2013/05/5932-Using-AWS-for-Disaster-Recovery.pdf 
